@@ -15,7 +15,7 @@
 ### Module 3: Managing a branch protection rule
 - [ ]  _Hands-on Lab:_ > [Activity 3](/labs/lab03.md)
 
----
+----
 
 ## Additional Resources
 > Additional resources to continue your GitHub Admin learning journey.
